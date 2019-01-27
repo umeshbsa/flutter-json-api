@@ -2,9 +2,7 @@
 
 
 ### Screenshot
- <img 
-width="30%" alt="portfolio_view"
- src="https://github.com/umeshbsa/flutter_json_api/blob/master/screen.gif"/>
+ <img width="30%" alt="portfolio_view" src="https://github.com/umeshbsa/flutter-json-api/blob/master/screen.gif"/>
  
 ### Jenkins and jCenter/maven
 * Jenkins setup with Hockey App<br/>
